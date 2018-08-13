@@ -14,7 +14,7 @@ Thank you and have fun!
 ### Python
 
 1. Introduction
-2. Data Structures
+2. Data structures
 3. Pythonic Auras:
 	* List Comprehensions
 	* Closures
