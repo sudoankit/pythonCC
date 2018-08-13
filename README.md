@@ -13,7 +13,7 @@ Thank you and have fun!
 
 ### Python
 
-1. Introduction
+1. [Introduction](https://github.com/sudoankit/pythonCC/blob/master/python-intro.md)
 2. Data structures
 3. Pythonic Auras:
 	* List Comprehensions
