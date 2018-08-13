@@ -1,5 +1,5 @@
-# pythonCC
-Python Crash Course to kickstart writing neural nets.
+# Python Crash Course
+Python Crash Course to kickstart _anything._
 
 ## Caveats:
 
@@ -13,21 +13,23 @@ Thank you and have fun!
 
 ### Python
 
-1. [Introduction](https://github.com/sudoankit/pythonCC/blob/master/python-intro.md), **Release: 13th August, 2018**
-2. Data structures, **20th August, 2018** 
-3. Pythonic Auras:, **30th August, 2018**
+---
+
+1. [Introduction](https://github.com/sudoankit/pythonCC/blob/master/python-intro.md), **Release: 13th August, 2018.**
+2. Data structures, **20th August, 2018.** 
+3. Pythonic Auras:, **30th August, 2018.**
 	* List Comprehensions
 	* Closures
 	* Iterators
 	* Generators
 	* Decorators
-4. Classes, **Release: 10th September, 2018**
+4. Classes, **Release: 10th September, 2018.**
 	* Inheritance
 	* Multiple Inheritance
 	* `super` stuff.
 	* Classes with the "class"
-5. Remembering `exceptions`, etc, **Release: 15 September, 2018**
-6. Strategy Patterns for Academia. **Release: 22nd September, LTS Support**
+5. Remembering `exceptions`, etc, **Release: 15 September, 2018.**
+6. Strategy Patterns for Academia. **Release: 22nd September, LTS Support.**
 8. Quick Projects **Release: 1st October, LTS Support**
 9. Libraries without the _Librarian_, **Release: 14th, LTS Support**
 	* `numpy`
@@ -37,11 +39,13 @@ Thank you and have fun!
 
 ### Neural Networks
 
+---
+
 1. Your first neural network, **Release: 20th October, LTS Support**
 	* The initial math.
 	* The initial neuroscience.
 	* The initial code...
-2. Advanced Stuff **No Date Yet**
+2. Advanced Stuff, **No Date Yet**
 3. Libraries without the _Librarian_, Part II: **No Date Yet**
 	* `opencv`
 	* `scikit-learn`
@@ -49,6 +53,32 @@ Thank you and have fun!
 	* `keras`
 	* `pytorch`
 	* `pymc`
+
+### Mathematics, Physics and Other Stuff
+
+---
+
+#### Math
+
+0. Discrete Math Primer
+1. Linear Algebra
+	* Spectral Theory
+2. Analysis
+	* Real Analysis
+	* Functional Analysis
+3. Statistics
+4. Probability
+5. Measure Theory
+6. Information Theory
+7. hmmmm
+
+### Contribute
+
+You wanna contribute? Sure! Donate me some cash for a cup of tea. 
+
+_You thought writing this?_
+
+Hhahhahhahahah
 
 ### License
 
