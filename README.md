@@ -13,23 +13,23 @@ Thank you and have fun!
 
 ### Python
 
-1. [Introduction](https://github.com/sudoankit/pythonCC/blob/master/python-intro.md)
-2. Data structures
-3. Pythonic Auras:
+1. [Introduction](https://github.com/sudoankit/pythonCC/blob/master/python-intro.md), **Release: 13th August, 2018**
+2. Data structures, **20th August, 2018** 
+3. Pythonic Auras:, **30th August, 2018**
 	* List Comprehensions
 	* Closures
 	* Iterators
 	* Generators
 	* Decorators
-4. Classes
+4. Classes, **Release: 10th September, 2018**
 	* Inheritance
 	* Multiple Inheritance
 	* `super` stuff.
 	* Classes with the "class"
-5. Remembering `exceptions`, etc
-6. Strategy Patterns for Academia.
-8. Quick Projects
-9. Libraries without the _Librarian_
+5. Remembering `exceptions`, etc, **Release: 15 September, 2018**
+6. Strategy Patterns for Academia. **Release: 22nd September, LTS Support**
+8. Quick Projects **Release: 1st October, LTS Support**
+9. Libraries without the _Librarian_, **Release: 14th, LTS Support**
 	* `numpy`
 	* `scipy`
 	* `matplotlib`
@@ -37,12 +37,12 @@ Thank you and have fun!
 
 ### Neural Networks
 
-1. Your first neural network
+1. Your first neural network, **Release: 20th October, LTS Support**
 	* The initial math.
 	* The initial neuroscience.
 	* The initial code...
-2. Advanced Stuff
-3. Libraries without the _Librarian_, Part II:
+2. Advanced Stuff **No Date Yet**
+3. Libraries without the _Librarian_, Part II: **No Date Yet**
 	* `opencv`
 	* `scikit-learn`
 	* `tensorflow`
@@ -50,7 +50,10 @@ Thank you and have fun!
 	* `pytorch`
 	* `pymc`
 
-
 ### License
 
 Unless noted, everything is under the MIT license.
+
+--- 
+
+This might actually become a book! Lol.
