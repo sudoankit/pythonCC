@@ -53,4 +53,25 @@ In [1]: 42 + 2 + 4 + 8 + 16 + 32 + 64 + 128 + 256 + 512 + 1024 + 2048 + 4096 + 8
 
 You'll get the answer! But, boy this is an headache! I mean just horizontal scrolling is painful. Who does that? 
 
+We don't. I mean, I don't.
+
+Enter, `loops`. The right hand of the king. 
+
+### Anatomy of loops
+
+Loops are crazy people as they keep repeating the same stuff again and again till eternity. Loops are the reason why we humans **need** computers.
+
+Here `loops` profile picture.
+
+```
+
+LOOP x times {
+
+	something like doing the dishes (x = forever)
+
+} 
+
+```
+
+Amazing stuff isn't? 
 
