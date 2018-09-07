@@ -59,15 +59,14 @@ A **loop** in essence is a piece of code that instructs the computer to carry ou
 
 If the condition can't be met, you're just being malevolent.
 
-In python, a simple `for` loop, like the C++ `for (int i = 0; i < MAX; i++ )` is simple.
+In python, a simple `for` loop, like the C++ `for (int i = 0; i < MAX; i++ ) printf("%n", i);` is simple.
 
 ```
-for i in range(1,11):
-	print(i) 
-	# python2 doesn't require print statement to have brackets, 
-	# python3 does so don't forget!
-	
+for i in range(0,MAX):
+	print(i) 	
 ```
+ 
+**Note:** This will print till `MAX-1` like the `C++` code.
  
 Running that code gives us: 
 
@@ -87,4 +86,8 @@ In [1]: for i in range(1,11):
 10
 ```
 
-Voila! Much simpler than writing 10 times.
+Voila! Much simpler than writing 10 times. 
+
+But wait. There's a lot more to loops. You have an arsenal of commands to make your life much easier.
+
+
