@@ -16,37 +16,37 @@ Thank you and have fun!
 ---
 
 1. [Introduction](https://github.com/sudoankit/pythonCC/blob/master/python-intro.md), **Release: 13th August, 2018.**
-2. Data structures, **20th August, 2018.** 
-3. Pythonic Auras:, **30th August, 2018.**
+2. Data structures, 
+3. Pythonic Auras:, 
 	* List Comprehensions
 	* Closures
 	* Iterators
 	* Generators
 	* Decorators
-4. Classes, **Release: 10th September, 2018.**
+4. Classes, 
 	* Inheritance
 	* Multiple Inheritance
 	* `super` stuff.
 	* Classes with the "class"
-5. Remembering `exceptions`, etc, **Release: 15 September, 2018.**
-6. Strategy Patterns for Academia. **Release: 22nd September, LTS Support.**
-8. Quick Projects **Release: 1st October, LTS Support**
-9. Libraries without the _Librarian_, **Release: 14th, LTS Support**
+5. Remembering `exceptions`, etc, 
+6. Strategy Patterns for Academia.
+8. Quick Projects 
+9. Libraries without the _Librarian_,
 	* `numpy`
 	* `scipy`
 	* `matplotlib`
 	* `scipy`
 
-### Neural Networks
+### Examples
 
 ---
 
-1. Your first neural network, **Release: 20th October, LTS Support**
+1. Your first neural network,
 	* The initial math.
 	* The initial neuroscience.
 	* The initial code...
-2. Advanced Stuff, **No Date Yet**
-3. Libraries without the _Librarian_, Part II: **No Date Yet**
+2. Advanced Stuff, 
+3. Libraries without the _Librarian_, Part II: 
 	* `opencv`
 	* `scikit-learn`
 	* `tensorflow`
@@ -54,31 +54,13 @@ Thank you and have fun!
 	* `pytorch`
 	* `pymc`
 
-### Mathematics, Physics and Other Stuff
-
----
-
-#### Math
-
-0. Discrete Math Primer
-1. Linear Algebra
-	* Spectral Theory
-2. Analysis
-	* Real Analysis
-	* Functional Analysis
-3. Statistics
-4. Probability
-5. Measure Theory
-6. Information Theory
-7. hmmmm
-
 ### Contribute
 
 You wanna contribute? Sure! Donate me some cash for a cup of tea. 
 
 _You thought writing this?_
 
-Hhahhahhahahah
+Hhahhahhahahah. Okay sure, send a PR.
 
 ### License
 
